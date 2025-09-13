@@ -76,5 +76,5 @@ fun TutorialScreenPreview() {
         TutorialScreen()
     }
 
-    // comment vf d
+
 }
